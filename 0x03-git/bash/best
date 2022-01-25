@@ -1,14 +1,5 @@
-#!/bin/bash
-<<<<<<< 
-<<<<<<< 
+#!/bin/bash 
 echo "This School is so cool!"
-=======
-<<<<<<< 
-=======
-
->>>>>>> update_script
+update_script
 echo "Best School"
-=======
 echo "This School is so cool!"
->>>>>>> 6b4812eff1f8aee92e8f067961fb5e16c7107f52
->>>>>>> update_script
